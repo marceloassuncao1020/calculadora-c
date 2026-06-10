@@ -9,11 +9,11 @@
 
     printf("1 - soma\n");
 
-    printf("2 - subtraÁaı\n");
+    printf("2 - subtra√ßa√µ\n");
 
-    printf("3 - divis„o\n");
+    printf("3 - divis√£o\n");
 
-    printf("4 - multiplicaÁ„o\n");
+    printf("4 - multiplica√ß√£o\n");
 
     scanf("%d", &input);
 
@@ -23,7 +23,8 @@
         printf("\nDigite o segundo numero: ");
         scanf("%d", &numero2);
 
-        printf("Resultado È :%d", multiplicar(numero1, numero2));
+        printf("Resultado √© :%d", multiplicar(numero1, numero2));
+        
     }
-
+        printf("feito por Marcelo Gabriel Assun√ß√£o Rigotti");
 }
