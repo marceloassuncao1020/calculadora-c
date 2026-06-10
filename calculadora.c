@@ -9,7 +9,7 @@
 
     printf("1 - soma\n");
 
-    printf("2 - subtraçaõ\n");
+    printf("2 - subtração\n");
 
     printf("3 - divisão\n");
 
